@@ -1,0 +1,10 @@
+package com.example.petbuddy.data.model
+
+data class UserProfile(
+    val user_id: Int,
+    val name: String,
+    val email: String,
+    val phone: String? = null,
+    val role: String? = null
+)
+
