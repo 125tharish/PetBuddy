@@ -1,0 +1,46 @@
+# ===============================
+# ANDROID / FRONTEND (Android Studio)
+# ===============================
+.gradle/
+.idea/
+*.iml
+local.properties
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ===============================
+# NODE / WEB (if used later)
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===============================
+# PHP / BACKEND
+# ===============================
+vendor/
+.env
+.env.local
+.env.production
+
+# ===============================
+# OS / SYSTEM FILES
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# LOGS
+# ===============================
+*.log
+
+# ===============================
+# TEMP FILES
+# ===============================
+*.tmp
+*.temp
